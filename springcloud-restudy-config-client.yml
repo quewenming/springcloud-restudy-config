@@ -4,7 +4,7 @@ server:
 spring:
   profiles: dev #开发环境
   application:
-    name: springcloud-restudy-config
+    name: springcloud-restudy-config-client
 
 eureka:
   client:
